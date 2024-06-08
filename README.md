@@ -1,6 +1,5 @@
 # DiscreteExteriorCalculusForPDEs
-Python implementation for a PDE solver based on discrete external calculus
-
+Python implementation for a PDE solver based on discrete exterior calculus
 # ⚙️ Examples
 Heat equation $$\frac{du}{dt} = \alpha\Delta u$$
 <img src="https://github.com/pcestola/DiscreteExteriorCalculusForPDEs/blob/main/GIFs/Heat.gif" width="200" height="200" />
